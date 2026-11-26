@@ -12,11 +12,11 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 293a3eda102647b57c23e670d800d91b48d32f0b
+      ref: 8cb935c63a86ca3e5fb38758edd5bb8ec44dccdd
   masa_motoru:
     git:
       url: https://github.com/taktemurr-ops/masa-motoru
-      ref: 939eff2c81e509c57a51311fcc25f7ec44190fe2
+      ref: 1e066f71039e7593e5e56207a20172f36db894e4
 
 dev_dependencies:
   flutter_test:
